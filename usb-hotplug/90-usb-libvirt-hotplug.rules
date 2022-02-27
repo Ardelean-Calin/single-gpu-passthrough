@@ -1,0 +1,1 @@
+SUBSYSTEM=="usb",DEVPATH=="/devices/pci0000:00/0000:00:01.3/0000:03:00.0/*",RUN+="/opt/usb-libvirt-hotplug/usb-libvirt-hotplug.sh win10"
